@@ -23,3 +23,6 @@ elif operation == '%':
        print("Error: Cannot take modulus with zero!")
 else:
     print("Error: Invalid operator.")
+
+
+    
